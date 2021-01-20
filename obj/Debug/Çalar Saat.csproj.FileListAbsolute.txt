@@ -1,0 +1,15 @@
+D:\VB\Çalar Saat\bin\Debug\Çalar Saat.exe.config
+D:\VB\Çalar Saat\bin\Debug\Çalar Saat.exe
+D:\VB\Çalar Saat\bin\Debug\Çalar Saat.pdb
+D:\VB\Çalar Saat\bin\Debug\Interop.WMPLib.dll
+D:\VB\Çalar Saat\bin\Debug\AxInterop.WMPLib.dll
+D:\VB\Çalar Saat\obj\Debug\Çalar Saat.csprojAssemblyReference.cache
+D:\VB\Çalar Saat\obj\Debug\Interop.WMPLib.dll
+D:\VB\Çalar Saat\obj\Debug\AxInterop.WMPLib.dll
+D:\VB\Çalar Saat\obj\Debug\Çalar Saat.csproj.ResolveComReference.cache
+D:\VB\Çalar Saat\obj\Debug\Çalar_Saat.Form1.resources
+D:\VB\Çalar Saat\obj\Debug\Çalar_Saat.Properties.Resources.resources
+D:\VB\Çalar Saat\obj\Debug\Çalar Saat.csproj.GenerateResource.cache
+D:\VB\Çalar Saat\obj\Debug\Çalar Saat.exe
+D:\VB\Çalar Saat\obj\Debug\Çalar Saat.pdb
+D:\VB\Çalar Saat\obj\Debug\Çalar Saat.csproj.CoreCompileInputs.cache
